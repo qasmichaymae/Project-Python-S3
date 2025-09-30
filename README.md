@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Project Python + s3 
+=======
+﻿# Project Python + s3 
+>>>>>>> 11616fe40a01b61f73b43a1c108fa46495fa09a4
   Pipeline Data Engineering pour l’analyse des ventes e-commerce
 Objectif
 Construire un pipeline de traitement de données qui récupère des données brutes d’un repertoire local afin de créer datalake sur MinIO, les transforme, les stocke dans un datawerehouse, et les expose dans le cloud pour des analyses et dashboards. L’objectif est de créer un pipeline du ingestion au stockage en passant par le traitement et l’orchestration.
